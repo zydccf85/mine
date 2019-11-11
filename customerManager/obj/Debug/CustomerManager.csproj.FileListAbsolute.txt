@@ -1,0 +1,257 @@
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\Dapper.Contrib.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\Dapper.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.DataModel.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Extensions.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\Dapper.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\Dapper.Contrib.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\EditDialog.g.cs
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.cache
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.lref
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\EditDialog.baml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\DXSplashScreen\Statup.baml
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\obj\Debug\DXSplashScreen\Statup.g.cs
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Seven.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.VS2017Blue.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Dialogs.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager\CustomerManager\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dapper.Contrib.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dapper.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.DataModel.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Dialogs.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Extensions.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Seven.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.VS2017Blue.v18.1.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dapper.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dapper.Contrib.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\DXSplashScreen\Statup.baml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\DXSplashScreen\Statup.g.cs
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\EditDialog.g.cs
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.cache
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.lref
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\EditDialog.baml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dos.ORM.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Dos.ORM.xml
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\Microsoft.Office.Interop.Owc11.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\MSDATASRC.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\CustomerManager (1)\CustomerManager\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\DXSplashScreen\Statup.baml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\DXSplashScreen\Statup.g.cs
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\EditDialog.g.cs
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe.config
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\CustomerManager.exe
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\CustomerManager.pdb
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dapper.Contrib.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dapper.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.DataModel.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Dialogs.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Extensions.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.Seven.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Themes.VS2017Blue.v18.1.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dos.ORM.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Microsoft.Office.Interop.Owc11.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Aliyun.OSS.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Quartz.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\MSDATASRC.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Common.Logging.Core.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dapper.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dapper.Contrib.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.ViewModel.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Dos.ORM.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Aliyun.OSS.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Quartz.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Common.Logging.Core.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\Common.Logging.xml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\EditDialog.baml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.g.resources
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Repo\CustomerManager\CustomerManager\obj\Debug\CustomerManager.csproj.CopyComplete

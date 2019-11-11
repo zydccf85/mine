@@ -1,0 +1,108 @@
+﻿<dx:ThemedWindow x:Name="themedWindow" 
+       x:Class="CustomerManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+         xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+                 xmlns:lc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+        xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
+                 xmlns:ViewModels ="clr-namespace:CustomerManager.ViewModels"
+        DataContext="{dxmvvm:ViewModelSource Type=ViewModels:MainWindowViewModel}"
+        Title="MainWindow" Height="350" Width="808" WindowState="Maximized" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" Icon="{dx:DXImage Image=BODepartment_32x32.png}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <lc:LayoutControl Grid.Row="0"  Orientation="Horizontal" Background="#FFEAEAEA" HorizontalAlignment="Stretch" ItemSpace="10"  Padding="0">
+            <lc:LayoutGroup View="GroupBox">
+                <lc:LayoutItem Label="姓 名：">
+                    <dxe:TextEdit NullText="请输入姓名" Text="{Binding Name,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></dxe:TextEdit>
+                </lc:LayoutItem>
+                <lc:LayoutItem Label="身份证号码：">
+                    <dxe:TextEdit NullText="请输入身份证号码" Text="{Binding Sid,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></dxe:TextEdit>
+                </lc:LayoutItem>
+                <lc:LayoutGroup Orientation="Horizontal">
+                    <dx:SimpleButton Content="查 询" Glyph="{dx:DXImage Image=Lookup&amp;Reference_16x16.png}" Command="{Binding QueryCommand}" ></dx:SimpleButton>
+                    <dx:SimpleButton Content="重 置" Glyph="{dx:DXImage Image=Reset_16x16.png}" Command="{Binding ResetCommand}"></dx:SimpleButton>
+
+                </lc:LayoutGroup>
+            </lc:LayoutGroup>
+            <lc:LayoutGroup View="Group" HorizontalAlignment="Center" Width="150"  >
+                <dx:SimpleButton Content="录入数据" Glyph="{dx:DXImage Image=RenameDataSource_16x16.png}" Command="{Binding AddCommand}"
+                                 Foreground="DarkRed" FontSize="17" FontWeight="Bold" Margin="10" ></dx:SimpleButton>
+            </lc:LayoutGroup>
+        </lc:LayoutControl>
+
+        <dxg:GridControl Grid.Row="1" VerticalAlignment="Stretch"  EnableSmartColumnsGeneration="True" ItemsSource="{Binding AllData,Mode=TwoWay}" SelectionMode="Row" CustomUnboundColumnData="grid_CustomUnboundColumnData">
+            <dxg:GridControl.View>
+                <dxg:TableView x:Name="dataView" AllowPerPixelScrolling="True" ShowTotalSummary="True" ShowGroupPanel="False"  AllowEditing="False" HeaderHorizontalAlignment="Center" 
+                               SearchPanelHorizontalAlignment="Center" Margin="0,0,0,-18"  />
+            </dxg:GridControl.View>
+
+            <dxg:GridControl.Columns >
+                
+                <dxg:GridColumn FieldName="Id" IsSmart="True" Header="编号 " Width="100" HorizontalHeaderContentAlignment="Center"/>
+                <dxg:GridColumn FieldName="Name" IsSmart="True" Header="姓名 " Width="150"  HorizontalHeaderContentAlignment="Center">
+                    <dxg:GridColumn.EditSettings>
+                        <dxe:TextEditSettings/>
+                    </dxg:GridColumn.EditSettings>
+                </dxg:GridColumn>
+                <dxg:GridColumn FieldName="Gender" IsSmart="True" Header="性别 " Width="100" UnboundType="String"  HorizontalHeaderContentAlignment="Center" UnboundExpression="{x:Null}"/>
+                <dxg:GridColumn FieldName="Sid" IsSmart="True" Header="身份证号码 " Width="250"  HorizontalHeaderContentAlignment="Center"/>
+                <dxg:GridColumn FieldName="Age" IsSmart="True" Header="年龄 " Width="100" UnboundType="Integer"  HorizontalHeaderContentAlignment="Center"/>
+                <dxg:GridColumn FieldName="Createtime" IsSmart="True" Header="录入时间 " Width="200"  HorizontalHeaderContentAlignment="Center">
+                </dxg:GridColumn>
+                <dxg:GridColumn Header="操作" FieldName="column" Width="300" HorizontalHeaderContentAlignment="Center" >
+                    <dxg:GridColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="5,0" HorizontalAlignment="Center" Opacity="0.85">
+                                <dx:SimpleButton Content="修改" Glyph="{dx:DXImage Image=Editname_16x16.png}" 
+                                                 Command="{Binding DataContext.EditCommand, ElementName=themedWindow}" CommandParameter="{Binding RowData.Row}"></dx:SimpleButton>
+                                <dx:SimpleButton Content="删除" Glyph="{dx:DXImage Image=Cancel_16x16.png}" 
+                                                 Command="{Binding DataContext.DeleteCommand, ElementName=themedWindow}" CommandParameter="{Binding RowData.Row}"></dx:SimpleButton>
+                            </StackPanel>
+                        </DataTemplate>
+                    </dxg:GridColumn.CellTemplate>
+                </dxg:GridColumn>
+            </dxg:GridControl.Columns>
+        </dxg:GridControl>
+        <StatusBar Grid.Row="2">
+            <StatusBarItem>
+                <dx:SimpleButton Content="首页" Command="{Binding FirstCommand}" Glyph="{dx:DXImageOffice2013 Image=First_16x16.png}"></dx:SimpleButton>
+            </StatusBarItem>
+            <StatusBarItem>
+                <dx:SimpleButton Content="上一页" Glyph="{dx:DXImage Image=Prev_16x16.png}" Command="{Binding PrevCommand}"></dx:SimpleButton>
+            </StatusBarItem>
+            <StatusBarItem>
+                <StackPanel 
+						Orientation="Horizontal">
+                    <TextBlock Text="{Binding PageRecord,Mode=TwoWay}"></TextBlock>
+                </StackPanel>
+            </StatusBarItem>
+            <StatusBarItem >
+                <dx:SimpleButton Content="下一页" Glyph="{dx:DXImage Image=Next_16x16.png}" GlyphAlignment="Right" Command="{Binding NextCommand}"></dx:SimpleButton>
+            </StatusBarItem>
+            <StatusBarItem>
+                <dx:SimpleButton Content="末页" Glyph="{dx:DXImage Image=Last_16x16.png}" GlyphAlignment="Right" Command="{Binding LastCommand}"></dx:SimpleButton>
+            </StatusBarItem>
+            <Separator  Margin="5"></Separator>
+            <TextBlock Text="{Binding PageInfo,Mode=TwoWay}" />
+            <Separator  Margin="5"></Separator>
+            <Label Content="每页显示"></Label>
+            <dxe:ButtonEdit Width="60" EditValue="{Binding PageSize,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" AllowDefaultButton="False"  >
+                <dxe:ButtonEdit.Buttons>
+                    <dxe:ButtonInfo Command="{Binding QueryCommand, Mode=Default }" Content="切换" GlyphKind="Apply" ToolTip="切换每页显示记录数"></dxe:ButtonInfo>
+                </dxe:ButtonEdit.Buttons>
+            </dxe:ButtonEdit>
+
+            <Label Content="条"></Label>
+                <dx:SimpleButton Content="导出当页数据" Glyph="{dx:DXImage Image=ExportToXLS_16x16.png}" Click="Export_Click"></dx:SimpleButton>
+                 <dx:SimpleButton Content="备份数据库 " Glyph="{dx:DXImage Image=Database_16x16.png}" Click="Backup_Click"></dx:SimpleButton>
+        </StatusBar>
+
+    </Grid>
+</dx:ThemedWindow>
