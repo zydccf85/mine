@@ -112,8 +112,13 @@ namespace CustomerManager.ViewModels
                 InitData();
             };
             EditDialogViewModel edvm = de.DataContext as EditDialogViewModel;
-            int maxId = DB.DB.Content.FromSql("select max(id) from customer").First<int>();
-            edvm.Id = maxId+1;
+            // int maxId = DB.DB.Content.FromSql("select max(id) from customer").First<int>();
+
+            edvm.Customer = new Customer()
+            {
+                Id = DB.DB.Content.FromSql("select max(id) from customer").First<int>() + 1
+            };
+
             de.ShowDialog();
            
         }
@@ -155,9 +160,10 @@ namespace CustomerManager.ViewModels
         {
             EditDialog de = new EditDialog();
             EditDialogViewModel edvm = de.DataContext as EditDialogViewModel;
-            edvm.Id = customer.Id;
-            edvm.Name = customer.Name;
-            edvm.Sid = customer.Sid;
+            //edvm.Id = customer.Id;
+            //edvm.Name = customer.Name;
+            //edvm.Sid = customer.Sid;
+            edvm.Customer = customer;
             edvm.Status = 1;
             de.ShowDialog();
         }

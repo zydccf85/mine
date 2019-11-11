@@ -23,12 +23,12 @@
                 <lc:LayoutGroup Header="当前状态：新增"
                     HorizontalAlignment="Stretch" View="GroupBox" Orientation="Vertical" ItemSpace="10"  >
 
-                <lc:LayoutItem Label="编  号(自动生成):" FontSize="14" FontWeight="Bold" >
+                <lc:LayoutItem Label="编  号(ID):" FontSize="14" FontWeight="Bold" >
                     <dxe:TextEdit IsReadOnly="True" IsEnabled="False"  Foreground="DarkRed"
-                                  EditValue="{Binding Id,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Background="LightGray"/>
+                                  EditValue="{Binding Customer.Id,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Background="LightGray"/>
                     </lc:LayoutItem>
                     <lc:LayoutItem Label="姓  名：" FontSize="14" FontWeight="Bold">
-                    <dxe:TextEdit NullText="请输入汉字" EditValue="{Binding Name,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Validate="Name_Validate">
+                    <dxe:TextEdit NullText="请输入汉字" EditValue="{Binding Customer.Name,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Validate="Name_Validate">
                         <dxmvvm:Interaction.Behaviors>
                             <dxmvvm:FocusBehavior/>
                         </dxmvvm:Interaction.Behaviors>
@@ -36,7 +36,7 @@
                 </lc:LayoutItem>
                 <lc:LayoutItem Label="身份证号：" FontSize="14" FontWeight="Bold">
                         <dxe:TextEdit NullText="请输入第二代有效身份证号" 
-EditValue="{Binding Sid,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Validate="Sid_Validate"/>
+EditValue="{Binding Customer.Sid,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Validate="Sid_Validate"/>
                     </lc:LayoutItem>
                 </lc:LayoutGroup>
         </lc:LayoutControl>

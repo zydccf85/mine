@@ -58,8 +58,8 @@ namespace CustomerManager
             {
                 if (e.Column.FieldName=="Gender")
                 {
-                     e.Value = Convert.ToInt32(sid.Substring(16, 1)) % 2 == 0 ? "女" : "男";
-                    //e.Value = "女";
+                    e.Value = Convert.ToInt32(sid.Substring(16, 1)) % 2 == 0 ? "女" : "男";
+                   // e.Value = "女";
                 }else if (e.Column.FieldName == "Age")
                 {
 
@@ -69,7 +69,7 @@ namespace CustomerManager
                    // Debug.WriteLine(year);
                    // Debug.WriteLine(month);
                    // Debug.WriteLine(day);
-                  e.Value = DateTime.Now.Year - year;
+                 e.Value = DateTime.Now.Year - year;
                     // DateTime dt = new DateTime(year, month, day);
                     //Debug.write( dt.ToShortDateString();
                 }
